@@ -8,7 +8,7 @@ The released code include the training and testing code for 7 attributes. This c
 The code is tested using Tensorflow 1.0.0 under Ubuntu 14.04 with Python 3.5. The code is based on the facenet [impelementation](https://github.com/davidsandberg/facenet). You could refer it for the software requirements.  
 
 ## Training and testing data
-The [CASIA-WebFace](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html) dataset has been used for training and testing. This training set consists of around ranmdomly selected 30,000 image pairs over 40 attributes after face detection. We have prepared the training and testing data [here]().
+The [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) dataset has been used for training and testing. This training set consists of around ranmdomly selected 30,000 image pairs over 40 attributes after face detection. We have prepared the training and testing data [here]().
 
 
 ## Running training and testing
